@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568139791 source:d:\ahmed\desktop\report\logic_circuit_minimizer\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+
